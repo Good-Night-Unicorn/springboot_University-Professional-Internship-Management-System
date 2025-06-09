@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/3f93e229-1de6-42c9-9e65-1811e00ee283)## 基于Springboot+vue的高校专业实习管理系统(源代码+LW+数据库)
+## 基于Springboot+vue的高校专业实习管理系统(源代码+LW+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
@@ -55,7 +55,7 @@
 ![图片](https://github.com/user-attachments/assets/b32fe95f-285d-43ca-95f3-4f8b72fe212d)
 ![图片](https://github.com/user-attachments/assets/101ba82a-28d9-4342-9c18-5db69fbd71d6)
 ![图片](https://github.com/user-attachments/assets/06095155-5a74-43de-9ced-ae56279aa62f)
-
+![图片](https://github.com/user-attachments/assets/3f93e229-1de6-42c9-9e65-1811e00ee283)
 ![图片](https://github.com/user-attachments/assets/ca5360aa-bd2e-4008-a0ac-bb068649ef26)
 ![图片](https://github.com/user-attachments/assets/c1064da4-777b-4a92-b81d-886e740b4351)
 ![图片](https://github.com/user-attachments/assets/b58f22f4-1344-4343-956b-a9eaa35f2687)
